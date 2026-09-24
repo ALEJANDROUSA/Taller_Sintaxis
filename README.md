@@ -60,23 +60,13 @@ python3 analizador_gramaticas.py
 
 ## 5. Capturas de pantalla de la ejecución
 
-### 5.1. Resultados algorítmicos de la gramática 1
+<img width="1600" height="1307" alt="image" src="https://github.com/user-attachments/assets/b6ea1dd3-5d22-4be5-9108-cdbaf294d7ff" />
 
-> **Insertar aquí la captura de pantalla de la terminal mostrando los resultados de la gramática 1.**
-
-```text
-[INSERTAR CAPTURA DE PANTALLA - GRAMÁTICA 1]
-```
 
 ### 5.2. Resultados algorítmicos de la gramática 2
 
-> **Insertar aquí la captura de pantalla de la terminal mostrando los resultados de la gramática 2.**
+<img width="1600" height="1153" alt="image" src="https://github.com/user-attachments/assets/36fe3bbe-83c4-4517-ad80-9b651d269a47" />
 
-```text
-[INSERTAR CAPTURA DE PANTALLA - GRAMÁTICA 2]
-```
-
----
 
 ## 6. Tabla comparativa de resultados
 
